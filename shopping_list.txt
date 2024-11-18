@@ -12,3 +12,5 @@ Paper
 Beans
 Honey
 Chocolate
+Carrots
+Cucumber
