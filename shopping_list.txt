@@ -8,3 +8,7 @@ Lemon
 Bananas
 Yoghurt
 Coffee
+Paper
+Beans
+Honey
+Chocolate
